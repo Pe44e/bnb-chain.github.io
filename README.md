@@ -23,6 +23,6 @@ This is the BNB Chain Knowledge Base documentation for the BNB Chain developers.
         ...       # Other markdown pages, images and other files.
 
 ## 📜 License
-
+ 
 Copyright (c) 2024 BNB Chain
 
